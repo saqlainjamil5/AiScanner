@@ -51,5 +51,3 @@ I can add:
 - Project folder structure  
 - Badges (Swift version, license, iOS version, etc.)  
 - Code examples  
-
-Just tell me — I’ll format it GitHub-ready!  
