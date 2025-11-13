@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict/>
+	</array>
+
+	<!-- Permissions -->
+	<key>NSCameraUsageDescription</key>
+	<string>This app needs camera access to scan documents and receipts.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>This app needs access to your photo library to import images for scanning.</string>
+	<!-- If you later save to the library, also include: -->
+	<!--
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>This app saves scanned documents to your photo library.</string>
+	-->
+</dict>
+</plist>
