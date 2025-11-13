@@ -43,11 +43,3 @@ This project helped me improve:
 - Improve UI/UX for productivity apps  
 
 ---
-
-## ⭐ Want to Improve This README?
-I can add:
-- Install instructions  
-- App screenshots / GIF previews  
-- Project folder structure  
-- Badges (Swift version, license, iOS version, etc.)  
-- Code examples  
